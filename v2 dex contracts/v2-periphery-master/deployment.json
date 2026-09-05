@@ -1,0 +1,10 @@
+{
+  "router": "0x315374AA9b5536037Cc1Efeea2439CCC0913A77e",
+  "factory": "0x4680BCe1632824d30D2F53656dD610736c3e312e",
+  "weth": "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14",
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "network": "sepolia",
+  "chainId": 11155111,
+  "timestamp": "2025-12-24T14:29:33.716Z",
+  "blockNumber": "9905934"
+}

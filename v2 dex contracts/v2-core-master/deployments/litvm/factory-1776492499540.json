@@ -1,0 +1,23 @@
+{
+  "network": {
+    "name": "litvm",
+    "chainId": "4441"
+  },
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "timestamp": "2026-04-18T06:08:18.724Z",
+  "blockNumber": 290930,
+  "contracts": {
+    "factory": {
+      "address": "0x4680BCe1632824d30D2F53656dD610736c3e312e",
+      "transactionHash": "0x8861296c83feee8c82c0a165cbdcecb7f423500197002ce2b8f8efb68defd8ab",
+      "feeToSetter": "0x48234eD645676b794a4CbC7483513e58cB04e22E",
+      "feeTo": "0x48234eD645676b794a4CbC7483513e58cB04e22E"
+    },
+    "initCodeHash": "0x01888feb01db41d97ad6fb1883d7e286650d46c410b82338aeb4a37554c28bcd",
+    "note": "Pairs will be created dynamically via createPair() function"
+  },
+  "protocol": {
+    "multisig": "0x48234eD645676b794a4CbC7483513e58cB04e22E",
+    "transferFeeToSetter": true
+  }
+}

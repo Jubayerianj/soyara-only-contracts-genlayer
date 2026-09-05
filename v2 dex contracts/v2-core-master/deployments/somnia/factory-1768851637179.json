@@ -1,0 +1,23 @@
+{
+  "network": {
+    "name": "somnia",
+    "chainId": "5031"
+  },
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "timestamp": "2026-01-19T19:40:36.291Z",
+  "blockNumber": 208170550,
+  "contracts": {
+    "factory": {
+      "address": "0x8a3B10b02e83891Fd948cfeA9A81A8912667eeEa",
+      "transactionHash": "0x4e50c6c97fdf010d3a7145b00ba2c994fd73005332027f874ffdad8859723b51",
+      "feeToSetter": "0x48234eD645676b794a4CbC7483513e58cB04e22E",
+      "feeTo": "0x48234eD645676b794a4CbC7483513e58cB04e22E"
+    },
+    "initCodeHash": "0x01888feb01db41d97ad6fb1883d7e286650d46c410b82338aeb4a37554c28bcd",
+    "note": "Pairs will be created dynamically via createPair() function"
+  },
+  "protocol": {
+    "multisig": "0x48234eD645676b794a4CbC7483513e58cB04e22E",
+    "transferFeeToSetter": true
+  }
+}

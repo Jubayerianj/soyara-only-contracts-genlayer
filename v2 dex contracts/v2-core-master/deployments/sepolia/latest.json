@@ -1,0 +1,18 @@
+{
+  "network": {
+    "name": "sepolia",
+    "chainId": "11155111"
+  },
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "timestamp": "2025-12-24T13:24:58.987Z",
+  "blockNumber": 9905665,
+  "contracts": {
+    "factory": {
+      "address": "0x4680BCe1632824d30D2F53656dD610736c3e312e",
+      "transactionHash": "0xeeac3710110e994c74b37328435ba00f9bf4a14979021d69f0a00419bcc45f60",
+      "feeToSetter": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2"
+    },
+    "initCodeHash": "0x1892ee6b3b8f653471529d0b06a772bdc5588bb0b15607cb427c8148f70004a9",
+    "note": "Pairs will be created dynamically via createPair() function"
+  }
+}

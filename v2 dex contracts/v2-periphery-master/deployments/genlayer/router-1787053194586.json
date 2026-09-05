@@ -1,0 +1,10 @@
+{
+  "router": "0xF456737D17C2Bbb348fd4F7D1b000D62A46FB3b5",
+  "factory": "0x4680BCe1632824d30D2F53656dD610736c3e312e",
+  "weth_like": "0x315374AA9b5536037Cc1Efeea2439CCC0913A77e",
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "network": "genlayer",
+  "chainId": "4221",
+  "timestamp": "2026-08-18T11:39:54.282Z",
+  "blockNumber": "17983071"
+}

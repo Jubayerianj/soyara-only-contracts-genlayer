@@ -1,0 +1,23 @@
+{
+  "network": {
+    "name": "genlayer",
+    "chainId": "4221"
+  },
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "timestamp": "2026-08-18T11:35:59.849Z",
+  "blockNumber": 17982709,
+  "contracts": {
+    "factory": {
+      "address": "0x4680BCe1632824d30D2F53656dD610736c3e312e",
+      "transactionHash": "0x28a01584128cf516d6d816cada41584732f394b3b5d35731bb60ddae1ba64e62",
+      "feeToSetter": "0x48234eD645676b794a4CbC7483513e58cB04e22E",
+      "feeTo": "0x48234eD645676b794a4CbC7483513e58cB04e22E"
+    },
+    "initCodeHash": "0x01888feb01db41d97ad6fb1883d7e286650d46c410b82338aeb4a37554c28bcd",
+    "note": "Pairs will be created dynamically via createPair() function"
+  },
+  "protocol": {
+    "multisig": "0x48234eD645676b794a4CbC7483513e58cB04e22E",
+    "transferFeeToSetter": true
+  }
+}

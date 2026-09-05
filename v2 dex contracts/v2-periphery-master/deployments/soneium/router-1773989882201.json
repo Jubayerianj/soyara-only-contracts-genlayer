@@ -1,0 +1,10 @@
+{
+  "router": "0x315374AA9b5536037Cc1Efeea2439CCC0913A77e",
+  "factory": "0x4680BCe1632824d30D2F53656dD610736c3e312e",
+  "weth_like": "0x4200000000000000000000000000000000000006",
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "network": "inkonchain",
+  "chainId": 57073,
+  "timestamp": "2026-03-20T06:58:01.849Z",
+  "blockNumber": "20427565"
+}

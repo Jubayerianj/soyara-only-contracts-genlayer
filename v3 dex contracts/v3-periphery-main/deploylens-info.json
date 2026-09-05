@@ -1,0 +1,11 @@
+{
+  "network": "unknown",
+  "chainId": 4221,
+  "factory": "0xBd959038300aF0C8dd1873E497d6D0a565b4E246",
+  "weth9": "0x315374AA9b5536037Cc1Efeea2439CCC0913A77e",
+  "quoterV2": "0xca4914407868bc37ccbE324cA149DD475d39A2Bf",
+  "tickLens": "0xCa4c7EdB398684cB4C5B3fD0cc6ced30b5a5f4d3",
+  "uniswapInterfaceMulticall": "0x6d1503E294b122Eb6B37ECe9c74d24D83f8B478b",
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "timestamp": "2026-08-18T11:48:08.855Z"
+}

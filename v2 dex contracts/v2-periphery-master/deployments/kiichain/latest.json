@@ -1,0 +1,10 @@
+{
+  "router": "0xF456737D17C2Bbb348fd4F7D1b000D62A46FB3b5",
+  "factory": "0xdeAc785Bd2eaaf3719eD18f67Ba04cC32C9b9331",
+  "weth_like": "0xd51e7187e54a4A22D790f8bbDdd9B54b891Bc920",
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "network": "kiichain",
+  "chainId": 1336,
+  "timestamp": "2026-01-02T20:24:31.448Z",
+  "blockNumber": "27485711"
+}

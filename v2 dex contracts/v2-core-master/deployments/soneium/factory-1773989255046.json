@@ -1,0 +1,23 @@
+{
+  "network": {
+    "name": "inkonchain",
+    "chainId": "57073"
+  },
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "timestamp": "2026-03-20T06:47:34.604Z",
+  "blockNumber": 20427251,
+  "contracts": {
+    "factory": {
+      "address": "0x4680BCe1632824d30D2F53656dD610736c3e312e",
+      "transactionHash": "0x195b0bb16110f2d5e60859270ea4f9d93fb002bc4b8299d60accf741662a7001",
+      "feeToSetter": "0x48234eD645676b794a4CbC7483513e58cB04e22E",
+      "feeTo": "0x48234eD645676b794a4CbC7483513e58cB04e22E"
+    },
+    "initCodeHash": "0x01888feb01db41d97ad6fb1883d7e286650d46c410b82338aeb4a37554c28bcd",
+    "note": "Pairs will be created dynamically via createPair() function"
+  },
+  "protocol": {
+    "multisig": "0x48234eD645676b794a4CbC7483513e58cB04e22E",
+    "transferFeeToSetter": true
+  }
+}

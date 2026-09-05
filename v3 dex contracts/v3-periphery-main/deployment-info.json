@@ -1,0 +1,13 @@
+{
+  "network": "unknown",
+  "chainId": 4221,
+  "factory": "0xBd959038300aF0C8dd1873E497d6D0a565b4E246",
+  "weth9": "0x315374AA9b5536037Cc1Efeea2439CCC0913A77e",
+  "nftDescriptor": "0xef334fcAA42A17CF8f76627408Ee0cE91eBaE6E4",
+  "nftPositionDescriptor": "0xbC5a5E695a70208Bd18B742C6731C749F1748795",
+  "nonfungiblePositionManager": "0x779380011B5F2aB40985D810B5c7641539beD870",
+  "swapRouter": "0xdf69970B2fE416339187aA41D39882e864984CE9",
+  "v3Migrator": "0xa338b743Ec494ebB8345f4B6F27ffC902b7EF5Aa",
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "timestamp": "2026-08-18T11:47:20.964Z"
+}

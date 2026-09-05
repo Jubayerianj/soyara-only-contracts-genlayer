@@ -1,0 +1,23 @@
+{
+  "network": {
+    "name": "kiichain",
+    "chainId": "1336"
+  },
+  "deployer": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+  "timestamp": "2026-01-02T10:16:34.348Z",
+  "blockNumber": 27474513,
+  "contracts": {
+    "factory": {
+      "address": "0x4680BCe1632824d30D2F53656dD610736c3e312e",
+      "transactionHash": "0x42cd19568dedf76acafc9dbcea034f16e8967731f7b298efcf08cd5723b94120",
+      "feeToSetter": "0x23D542DCEFb00b1f4268E67a0EC1EF4de0A58fe2",
+      "feeTo": "0x0000000000000000000000000000000000000000"
+    },
+    "initCodeHash": "0x01888feb01db41d97ad6fb1883d7e286650d46c410b82338aeb4a37554c28bcd",
+    "note": "Pairs will be created dynamically via createPair() function"
+  },
+  "protocol": {
+    "multisig": "0xYOUR_MULTISIG_ADDRESS_HERE",
+    "transferFeeToSetter": true
+  }
+}
